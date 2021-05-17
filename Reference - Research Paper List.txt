@@ -1,0 +1,20 @@
+1. Y.G. Lee, Y.S. Lee, J.J. Jeon, S. Lee, D.R. Yang, I.S. Kim, J.H. Kim, Artificial neural network model for optimizing operation of a seawater reverse osmosis desalination plant, Desalination. 247 (2009) 180–189. doi:10.1016/j.desal.2008.12.023.
+
+2. S.S. Madaeni, M. Shiri, A.R. Kurdian, Modeling, Optimization, and Control of Reverse Osmosis Water Treatment in Kazeroon Power Plant Using Neural Network, Chem. Eng. Commun. 202 (2014) 6–14. doi:10.1080/00986445.2013.828606.
+154
+
+3. A.M. Aish, H.A. Zaqoot, S.M. Abdeljawad, Artificial neural network approach for predicting reverse osmosis desalination plants performance in the Gaza Strip, Desalination. 367 (2015) 240–247. doi:10.1016/j.desal.2015.04.008.
+
+
+4. Jasir Jawada, Alaa H. Hawarib, Syed Zaidia. 'Modeling of forward osmosis process using artificial neural networks (ANN) to predict the permeate flux'. https://doi.org/10.1016/j.desal.2020.114427, April 2020.
+
+5. Srishti Mittal , Aniket Gupta , Saksham Srivastava , Manish Jain, 'Artificial Neural Network based modeling of the vacuum membrane distillation process: Effects of operating parameters on membrane fouling'. Chemical Engineering & Processing: Process Intensification 164 (2021) 108403.
+
+
+6. Asma Adda1*, Salah Hanini1, Salah Bezari2, Houari Ameur3, Rachid Maouedj4. Modeling and optimization of small-scale NF/RO seawater desalination using the artificial neural network (ANN). https://doi.org/10.18280/ijdne.150610
+
+
+
+https://www.semanticscholar.org/paper/Modeling-and-optimization-of-small-scale-NF%2FRO-the-Adda-Hanini/d8776ca67c58f51775be6f91ee12046566d70f53
+https://www.semanticscholar.org/paper/Reverse-Osmosis-Desalination-Performance-Using-with-Virapan-Saravanane/6b5e72d3f17c7b00e0690a2aac5b479d02ca0a4e
+https://www.semanticscholar.org/paper/Modeling-of-forward-osmosis-process-using-neural-to-Jawad-Hawari/8789f8fa94bc6b5f49a2187b366e64546107c1f5
